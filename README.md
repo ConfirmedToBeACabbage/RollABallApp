@@ -2,7 +2,8 @@
 My video game app project for Android devices!
 
 ![LabBall Icon](https://lh3.googleusercontent.com/BZZKtl0P_Jr1PHPs1fPAUyuEZnVPx4foZXfNOFLUj_ply6a5cLSltbC-Bz17NVyxJP0=s180) 
-![Store Link](https://play.google.com/store/apps/details?id=com.StudioInSpace.BallBastic&hl=en)
+
+![Store Link](https://play.google.com/store/apps/details?id=com.StudioInSpace.BallBastic&hl=en) Store Link: 
 
 Game Description: You're a Ball which gained sentience through science research! You're being tested, follow through with different platform tests the scientists throw at you!
 
